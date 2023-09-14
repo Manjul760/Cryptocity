@@ -1,0 +1,22 @@
+D:\New folder\The_crypto_city\bin\Debug\The_crypto_city.exe.config
+D:\New folder\The_crypto_city\bin\Debug\The_crypto_city.exe
+D:\New folder\The_crypto_city\bin\Debug\The_crypto_city.pdb
+D:\New folder\The_crypto_city\obj\Debug\The_crypto_city.csproj.AssemblyReference.cache
+D:\New folder\The_crypto_city\obj\Debug\The_crypto_city.csproj.SuggestedBindingRedirects.cache
+D:\New folder\The_crypto_city\obj\Debug\The_crypto_city.Form1.resources
+D:\New folder\The_crypto_city\obj\Debug\The_crypto_city.Properties.Resources.resources
+D:\New folder\The_crypto_city\obj\Debug\The_crypto_city.csproj.GenerateResource.cache
+D:\New folder\The_crypto_city\obj\Debug\The_crypto_city.csproj.CoreCompileInputs.cache
+D:\New folder\The_crypto_city\obj\Debug\The_crypto_city.exe
+D:\New folder\The_crypto_city\obj\Debug\The_crypto_city.pdb
+E:\crypto_app\The_crypto_city\bin\Debug\The_crypto_city.exe.config
+E:\crypto_app\The_crypto_city\bin\Debug\The_crypto_city.exe
+E:\crypto_app\The_crypto_city\bin\Debug\The_crypto_city.pdb
+E:\crypto_app\The_crypto_city\obj\Debug\The_crypto_city.csproj.AssemblyReference.cache
+E:\crypto_app\The_crypto_city\obj\Debug\The_crypto_city.csproj.SuggestedBindingRedirects.cache
+E:\crypto_app\The_crypto_city\obj\Debug\The_crypto_city.Form1.resources
+E:\crypto_app\The_crypto_city\obj\Debug\The_crypto_city.Properties.Resources.resources
+E:\crypto_app\The_crypto_city\obj\Debug\The_crypto_city.csproj.GenerateResource.cache
+E:\crypto_app\The_crypto_city\obj\Debug\The_crypto_city.csproj.CoreCompileInputs.cache
+E:\crypto_app\The_crypto_city\obj\Debug\The_crypto_city.exe
+E:\crypto_app\The_crypto_city\obj\Debug\The_crypto_city.pdb
